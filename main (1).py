@@ -143,4 +143,4 @@ async def rank(ctx):
 
     await ctx.send(embed=rank_embed)       
 
-bot.run("MTAyNTk1Njg3Mjk5NTQ4MzY0OA.GeCfVS.6VRUZnJdzlro0PHXMObx_9IdrPEzuQwLSoPc4g")
+bot.run("TOKEN")
