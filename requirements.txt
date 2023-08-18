@@ -1,0 +1,4 @@
+ py-cord
+ discord-ext-bot
+ asyncio
+ SQLAlchemy==2.0.19
